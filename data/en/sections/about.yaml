@@ -1,0 +1,51 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Backend Engineer
+
+# your company information
+company:
+  name: Nuveo
+  url: "https://www.nuveo.ai"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/wip-resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate software engineer with 5 years of working experience.
+I work on high reliable system with AWS Cloud Services.
+I develop RESTful APIs with Golang Serverless Lambdas'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/kinloth"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Team Work
+  percentage: 95
+  color: blue
+- name: Communication
+  percentage: 85
+  color: orange
+- name: Self-learning
+  percentage: 70
+  color: green
+- name: Time management
+  percentage: 65
+  color: yellow
+- name: Emotional intelligence
+  percentage: 90
+  color: sky

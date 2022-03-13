@@ -1,0 +1,18 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Graduation
+  image: /images/sections/achievements/graduation-cap.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Systems Information  from USP University.
+- title: AWS Certified Solutions Architect Associate
+  image: /images/sections/achievements/associate-certified-solutions-architect.jpg
+  summary: Received AWS Certified Solutions Architect Associate from AWS.
