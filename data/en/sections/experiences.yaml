@@ -14,7 +14,7 @@ experiences:
     name: Nuveo
     url: "https://www.nuveo.ai"
     location: São Paulo, Brazil
-    overview: Nuveo is a IA company to help others companies to build intelligent solutions.
+    overview: Nuveo is an IA company to helps others companies to build intelligent solutions.
   positions:
   - designation: Senior Backend Engineer
     start: Nov 2020
@@ -22,20 +22,21 @@ experiences:
     - Develop and maintain the backend services for the company.
     - Use modern technologies to create a scalable and maintainable system.
     - Apply Cloud computing by AWS services to reduce costs and improve performance.
-    - Create standarts and guidelines to follow.
-    - Create documentation to client and internal users (such as front-end developers).
+    - Create standards and guidelines to follow.
+    - Create documentation for client and internal users (such as front-end developers).
 
 - company:
     name: Tapps Games
     url: "https://tappsgames.com"
     location: São Paulo, Brazil
-    overview: Game development recognized company. Has published more than 400 games, which have been downloaded more than 840 million times by players over the globe.
+    overview: Game development recognized company.
+      Has published more than 400 games, which have been downloaded more than 840 million times by players over the globe.
   positions:
   - designation: Junior Game Developer
     start: Nov 2018
     end: Jul 2020
     responsibilities:
-    - Work with another areas (art, game design, qa, etc) to re-skin games.
+    - Work with other areas (art, game design, QA, etc) to re-skin games.
     - Resolve bugs and issues on legacy games.
     - Waterfall method with short deadlines.
   - designation: Mid Game Developer
@@ -43,6 +44,6 @@ experiences:
     end: Nov 2020
     responsibilities:
     - Agile (Kanban) method to create new features and improve existing ones.
-    - Work in small multidisciplinary team to improve specific games, such as the game "Vlogger".
+    - Work in a small multidisciplinary team to improve specific games, such as the game "Vlogger".
     - Make tools to improve the game quality.
-    - Colaborate with team to decide new features.
+    - Collaborate with team to decide new features.
