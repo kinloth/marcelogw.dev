@@ -32,13 +32,6 @@ experiences:
     overview: Game development recognized company.
       Has published more than 400 games, which have been downloaded more than 840 million times by players over the globe.
   positions:
-  - designation: Junior Game Developer
-    start: Nov 2018
-    end: Jul 2020
-    responsibilities:
-    - Work with other areas (art, game design, QA, etc) to re-skin games.
-    - Resolve bugs and issues on legacy games.
-    - Waterfall method with short deadlines.
   - designation: Mid Game Developer
     start: Jul 2020
     end: Nov 2020
@@ -47,3 +40,10 @@ experiences:
     - Work in a small multidisciplinary team to improve specific games, such as the game "Vlogger".
     - Make tools to improve the game quality.
     - Collaborate with team to decide new features.
+  - designation: Junior Game Developer
+    start: Nov 2018
+    end: Jul 2020
+    responsibilities:
+    - Work with other areas (art, game design, QA, etc) to re-skin games.
+    - Resolve bugs and issues on legacy games.
+    - Waterfall method with short deadlines.

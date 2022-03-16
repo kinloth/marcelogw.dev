@@ -1,7 +1,7 @@
 baseURL: https://marcelogw.dev
 
 languageCode: en-us
-title: "Marcelo Gaioso Werneck"
+title: "Marcelo's Blog"
 theme: "toha"
 
 # Manage languages
@@ -15,11 +15,11 @@ languages:
 markup:
   tableOfContents:
     startLevel: 2
-    endLevel: 6
+    endLevel: 4
     ordered: false
 
 # Enable global emoji support
-enableEmoji: true
+enableEmoji: false
 
 # The inverted logo will be used in the initial transparent navbar and
 # the main logo will be used in the non-transparent navbar.
@@ -31,6 +31,10 @@ logo:
 # Site parameters
 params:
   background: "images/site/space.jpg"
+
+  # Configure the number of section title visible in the top navbar
+  topNavbar:
+    maxVisibleSections: 4
 
   # GitHub repo URL of your site
   # gitRepo: https://github.com/kinloth
@@ -45,3 +49,16 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
+
+  features:
+    # Enable and configure blog posts
+    blog:
+      enable: true
+      # Share post on different social media
+      # shareButtons:
+      #   facebook: true
+      #   twitter: true
+      #   linkedin: true
+      #   reddit: true
+      #   whatsapp: true
+      #   email: true
