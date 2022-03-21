@@ -2,6 +2,7 @@
 title: "Simple Storage Service"
 date: 2022-03-21
 description: A summary about AWS S3
+hero: "images/hero.png"
 menu:
   sidebar:
     name: S3
