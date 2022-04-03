@@ -67,3 +67,8 @@ params:
       enable: true
       disqus:
         shortName: marcelogw
+
+    analytics:
+      enabled: true
+      goatCounter:
+        code: marcelogw
