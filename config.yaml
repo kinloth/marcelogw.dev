@@ -62,3 +62,8 @@ params:
         reddit: true
         # whatsapp: true
         email: true
+
+    comment:
+      enable: true
+      disqus:
+        shortName: marcelogw
