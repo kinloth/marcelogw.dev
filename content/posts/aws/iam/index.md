@@ -94,7 +94,7 @@ The AWS has a guide showing up the best security practices to manage permission:
 - Use policy conditions for extra security
 - Monitor activity in the AWS account
 
-{{< alert type="info" >}}
+{{< alert type="success" >}}
 For more information about the practices, check it out: https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
 {{< /alert >}}
 
@@ -124,7 +124,8 @@ The AWS uses this principle: initially, every user(unless the root user) does no
 
 {{< vs 2 >}}
 #### ABAC
-**Attribute-based access control (ABAC)**, also known as policy-based access control for IAM, defines an access control paradigm whereby access rights are granted to users through the use of policies which combine <mark>attributes</mark> together.
+**Attribute-based access control (ABAC)**, also known as policy-based access control for IAM, defines an access control paradigm whereby access rights are granted to users through the use of policies which combine attributes together.
+
 In an ABAC environment, when a user logs in, the system grants or rejects access based on different attributes.
 
 These attributes can be related to the:
